@@ -2,7 +2,7 @@ const userModel = require("../models/userModel");
 exports.defaultvalue =(req,res)=>{
    res.send({
     status:200,
-    message:"Hello , Welcome to your first get rest Api"
+    message:"Hello , Welcome to Hemant's world"
    })
 }
 
